@@ -12,7 +12,6 @@ Delete Tasks: Remove tasks by clicking the "×" button next to them.
 
 Persistent Storage: Your to-do list is saved in your browser's local storage, so you won't lose your tasks even if you close the application.
 
-DEMO
 
 [LIVE DEMO](https://uharika77.github.io/to-do-list/)
 
