@@ -14,5 +14,5 @@ Welcome to the To-Do List Web Application! This application allows users to crea
 
 ## Check Out demo
 
-[Click this](https://uharika77.github.io/to-do-list/)
+[Click here](https://uharika77.github.io/to-do-list/)
 
